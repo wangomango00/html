@@ -1,0 +1,84 @@
+<style> 
+    body {
+        background-color: rgb(206, 255, 156);
+    }
+    
+    h1 {
+        font-family: verdana;
+        text-align: center;
+        color: rgb(92, 125, 52);
+        background-color: white;
+        border-width: 2px,;
+        border-style: solid;
+        border-color: rgb(140, 196, 100);
+        font-style: small-caps;
+        
+    }
+    
+    h5 {
+        margin-top: -20px;
+        font-family: sans-serif;
+        font-style: italic;
+        color: rgb(130, 176, 97);
+    }
+    
+    img {
+        
+    }
+    
+    h2 {
+        font-family: verdana;
+        font-variant: small-caps;
+        color: rgb(107, 140, 67);
+        border-width: 11px;
+        border-style: solid;
+        border-color: rgb(172, 222, 122);
+    }
+    
+    h2.toc {
+        font-family: verdana;
+        font-variant: small-caps;
+        color: rgb(107, 140, 67);
+        border-width: 11px;
+        border-style: solid;
+        border-color: rgb(172, 222, 122);
+    }
+    
+    a {
+        color: rgb(107, 140, 67);
+    }
+    
+    li {
+        color: rgb(132, 171, 94);
+        border-width: 2px;
+        border-style: solid;
+        border-color: rgb(138, 196, 106);
+        margin: 4px;
+        font-variant: small-caps;
+        font-family: verdana;
+    }
+    
+    ul {
+        border: 3px solid rgb(127, 171, 89);
+        background-color: white;
+        width: 50%;
+    }
+    
+    img {
+        margin: 18px;
+        width: 240px;
+        border-width: 5px;
+        border-style: double;
+        border-color: rgb(222, 155, 31);
+    }
+    
+    img.pos {
+        margin-left: 361px;
+        width: 195px;
+        margin-top: 17px;
+    }
+    
+    ul.todo {
+        margin-top: -198px;
+    }
+</style>
